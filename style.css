@@ -1,4 +1,18 @@
-font-family: 'Bai Jamjuree', sans-serif;
+:root {
+  /* Colors */
+  /* Primary */
+  --strong-cyan: hsl(171, 66%, 44%);
+  --lt-blue: hsl(233, 100%, 69%);
+  /* Neutral */
+  --dk-gray-blue: hsl(210, 10%, 33%);
+  --gray-blue: hsl(201, 11%, 66%);
+
+  /* Font Styles */
+  --font-fam: 'Bai Jamjuree', sans-serif;
+  --main-fs: 18px;
+  --400-fw: 400;
+  --600-fw: 600;
+}
 
 /* Footer */
 
