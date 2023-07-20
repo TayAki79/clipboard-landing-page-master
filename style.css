@@ -14,6 +14,11 @@
   --600-fw: 600;
 }
 
+#home {
+  background-image: url(./images/bg-header-mobile.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
 /* Footer */
 
 .attribution {
