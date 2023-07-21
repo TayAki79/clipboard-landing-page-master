@@ -19,6 +19,12 @@
   background-repeat: no-repeat;
   background-size: 100%;
 }
+
+.custom-padding {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
 /* Footer */
 
 .attribution {
