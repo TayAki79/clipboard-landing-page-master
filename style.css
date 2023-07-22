@@ -25,13 +25,18 @@ body {
   background-size: 100%;
 }
 
-.custom-padding {
+.logo-padding {
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
 
-.big-font-size {
+.section-title {
   font-size: 1.9rem;
+}
+
+p {
+  width: 310px;
+  color: var(--gray-blue);
 }
 
 .download-btn1 {
