@@ -87,6 +87,9 @@ p {
   background-color: hsl(180, 9%, 96%);
 }
 
+#legal .row {
+  width: 180px;
+}
 
 /* Footer */
 
