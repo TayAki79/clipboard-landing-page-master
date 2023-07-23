@@ -25,6 +25,12 @@ body {
   background-size: 100%;
 }
 
+#home,
+#keep-track,
+#access-clipboard {
+  margin-bottom: 200px;
+}
+
 .logo-padding {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -32,6 +38,12 @@ body {
 
 .section-title {
   font-size: 1.9rem;
+  color: var(--dk-gray-blue);
+}
+
+.subsection-title {
+  font-size: 1.7rem;
+  color: var(--dk-gray-blue);
 }
 
 p {
@@ -53,6 +65,10 @@ p {
   color: white;
   border-bottom: 3px solid hsl(233, 60%, 52%);
   box-shadow: 0px 6px 20px 0.1px hsl(232, 63%, 81%);
+}
+
+.img-devices {
+  width: 310px;
 }
 
 /* Footer */
