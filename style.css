@@ -94,6 +94,11 @@ p {
   width: 180px;
 }
 
+#legal a {
+  text-decoration: none;
+  color: var(--gray-blue);
+}
+
 /* Clipboard-OS Section */
 #clipboard-os p {
   width: 304px;
