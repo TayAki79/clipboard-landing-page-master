@@ -29,7 +29,8 @@ body {
 #keep-track,
 #access-clipboard,
 #supercharge,
-#partners {
+#partners,
+#clipboard-os {
   margin-bottom: 200px;
 }
 
@@ -71,6 +72,10 @@ p {
 
 .img-devices {
   width: 310px;
+}
+
+#clipboard-os p {
+  width: 304px;
 }
 
 /* Footer */
