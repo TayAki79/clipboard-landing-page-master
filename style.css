@@ -8,12 +8,11 @@
   --gray-blue: hsl(201, 11%, 66%);
 
   /* Font Styles */
-  --font-fam: 'Bai Jamjuree', sans-serif;
+  --font-fam: "Bai Jamjuree", sans-serif;
   --main-fs: 18px;
   --400-fw: 400;
   --600-fw: 600;
 }
-
 
 body {
   font-family: var(--font-fam);
@@ -34,9 +33,15 @@ body {
   margin-bottom: 200px;
 }
 
-.logo-padding {
+.logo {
   padding-top: 5rem;
   padding-bottom: 5rem;
+}
+
+.logo-small {
+  width: 50px;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 .section-title {
@@ -77,6 +82,11 @@ p {
 #clipboard-os p {
   width: 304px;
 }
+
+#legal {
+  background-color: hsl(180, 9%, 96%);
+}
+
 
 /* Footer */
 
