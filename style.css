@@ -17,6 +17,8 @@
 /* Global Styling */
 body {
   font-family: var(--font-fam);
+  width: 375px;
+  margin: 0 auto;
 }
 
 #home,
